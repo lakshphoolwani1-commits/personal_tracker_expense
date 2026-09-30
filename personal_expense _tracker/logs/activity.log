@@ -1,0 +1,17 @@
+[2026-09-29 22:24:18] INFO: Database schema initialized.
+[2026-09-29 22:24:18] INFO: Application started.
+[2026-09-29 22:27:48] INFO: Expense added with ID #1
+[2026-09-29 22:28:51] INFO: Expense ID #1 deleted.
+[2026-09-29 22:29:22] INFO: Budget for 'Food & Dining' set to $2000.00
+[2026-09-29 22:31:01] INFO: Exported data to JSON at C:\Users\phool\OneDrive\Desktop\personal_expense _tracker\exports\expense_report.json
+[2026-09-30 18:53:21] INFO: Database schema initialized.
+[2026-09-30 18:53:21] INFO: Application started.
+[2026-09-30 18:53:43] INFO: Database schema initialized.
+[2026-09-30 18:53:43] INFO: Application started.
+[2026-09-30 18:56:40] INFO: Database schema initialized.
+[2026-09-30 18:56:40] INFO: Application started.
+[2026-09-30 18:57:56] INFO: Database schema initialized.
+[2026-09-30 18:57:56] INFO: Application started.
+[2026-09-30 18:59:07] INFO: Expense added with ID #2
+[2026-09-30 18:59:51] INFO: Expense ID #2 deleted.
+[2026-09-30 19:00:48] INFO: Budget for 'Food & Dining' set to $5000.00
